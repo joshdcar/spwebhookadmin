@@ -1,7 +1,7 @@
 
 ## webhook-manager-webpart
 
-A SharePoint Webhook administration webpart.
+A SharePoint Webhook administration webpart built using the SharePoint Framework (SPFX) and React. 
 
 NOTE: This webpart is a work in progress.  Please report any issues and I will work to get them resolved when time permits. Contributions are also welcomed.  More documentation forthcoming..
 
@@ -20,13 +20,15 @@ This package produces the following:
 * dist/* - the bundled script, along with other resources
 * deploy/* - all resources which should be uploaded to a CDN.
 
-### Build options
+###Build options
 
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
-=======
+gulp clean 
+gulp test 
+gulp serve 
+gulp bundle
+gulp package-solution 
+
+** See SharePoint Framwork for additional guidance
+
 
 
