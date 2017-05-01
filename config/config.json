@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/webhookManagerWebpart/WebhookManagerWebpartWebPart.js",
+      "manifest": "./src/webparts/webhookManagerWebpart/WebhookManagerWebpartWebPart.manifest.json",
+      "outputPath": "./dist/webhook-manager-webpart.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "webhookManagerWebpartStrings": "webparts/webhookManagerWebpart/loc/{locale}.js"
+  }
+}

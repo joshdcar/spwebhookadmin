@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "webhook-manager-webpart",
+    "framework": "react",
+    "version": "1.0.0",
+    "libraryId": "4434bd69-ff0a-4499-8df2-7fd69ddd5b6f"
+  }
+}

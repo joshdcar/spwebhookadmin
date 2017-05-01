@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "d57fb5b4-5ea4-4f41-8b87-fe507a92fe7b",
+  "alias": "WebhookManagerWebpartWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "d57fb5b4-5ea4-4f41-8b87-fe507a92fe7b",
+    "group": { "default": "Under Development" },
+    "title": { "default": "Webhook Manager Webpart" },
+    "description": { "default": "Webhook List Webhook Manager" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "Webhook Manager Webpart"
+    }
+  }]
+}

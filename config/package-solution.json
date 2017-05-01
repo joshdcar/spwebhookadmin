@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "webhook-manager-webpart-client-side-solution",
+    "id": "4434bd69-ff0a-4499-8df2-7fd69ddd5b6f",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/webhook-manager-webpart.sppkg"
+  }
+}
