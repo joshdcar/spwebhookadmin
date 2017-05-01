@@ -3,6 +3,8 @@
 
 A SharePoint Webhook administration webpart.
 
+NOTE: This webpart is a work in progress.  Please report any issues and I will work to get them resolved when time permits. Contributions are also welcomed.  More documentation forthcoming..
+
 ### Building the code
 
 ```bash
