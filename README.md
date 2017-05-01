@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## webhook-manager-webpart
 
 This is where you include your WebPart documentation.
@@ -24,3 +25,7 @@ gulp test - TODO
 gulp serve - TODO
 gulp bundle - TODO
 gulp package-solution - TODO
+=======
+# spwebhookadmin
+A SharePoint Webhook administration webpart.
+>>>>>>> a2f4719eccbb4435cb2d52ff10960f961be9bf39
